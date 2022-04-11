@@ -1,0 +1,52 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    font-family: 'Montserrat', sans-serif ;
+}
+#main {
+
+}
+
+#header {
+    height: 46px;
+    width: 100%;
+    background-color: black;
+
+}
+#nav {
+
+}
+
+#nav li {
+    display: inline-block;
+}
+#nav li a {
+    color: white;
+    text-decoration: none;
+    line-height: 46px;
+    padding: 0 24px;
+}
+#nav li:hover a {
+    color: black;
+    background-color: #ccc;
+    display: inline-block;
+}
+#nav .subnav {
+    display: none;
+}
+.subnav li {
+    right: 0px;
+}
+#slider {
+
+}
+#content {
+
+}
+#footer {
+
+}
